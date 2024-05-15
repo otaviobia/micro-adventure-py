@@ -1,2 +1,2 @@
 # million-dollar-gamble-py
-A Python rewrite of the BASIC programs in the book Million Dollar Gamble by Chassie L. West
+A Python rewrite of the BASIC type-in programs in the book series Micro Adventure published by Scholastic, Inc. during the 1980s.
